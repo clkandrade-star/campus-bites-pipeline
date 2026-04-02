@@ -1,0 +1,26 @@
+# Environment — credentials live here, never commit this
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# JetBrains IDEs (DataGrip, PyCharm, etc.)
+.idea/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
